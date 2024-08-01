@@ -25,11 +25,11 @@ The GIS includes the following geographical and socio-economic information:
 Below are various visualizations of the Codo Village GIS map:
 
 ### v1.0.0
-![Map v1.0.0](https://cdn.discordapp.com/attachments/1014197038033940560/1268269865421115413/peta_digital_desa_codo_filkom_feb.png?ex=66abcfdb&is=66aa7e5b&hm=e295964574a70d484e8a2bba1426cebf52e5938945a1fcfe6c7ef8488d78f61f&)
+![Map v1.0.0](https://drive.google.com/thumbnail?id=1ApFtGKzVBvgwV9z3Nf4UAAmNJutEuyUO&sz=w2000)
 Caption: First iteration of the full view of Codo Village GIS map
 
 ### v2.3.0
-![Map v2.3.0](https://lh3.googleusercontent.com/d/1JuxOYszvWvGw7o1WErL_NLB_-KM5-Tc3=w2000)
+![Map v2.3.0](https://drive.google.com/thumbnail?id=1JuxOYszvWvGw7o1WErL_NLB_-KM5-Tc3&sz=w2000)
 Caption: Map highlighting areas such as residential, plantations, etc in Codo Village
 
 To view these maps in higher resolution or to interact with the full GIS data, please refer to the `gis.qgz` file using QGIS software.
